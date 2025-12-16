@@ -2,11 +2,11 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7d7a773f-0f08-423d-a5f1-45f90f454748/thumbnail" >
 </p>
-- 🔭 I’m currently working on building skills as Data Analyst.
-- 🌱 I’m currently learning to code on Python.  
-- ⚡ I’m currently pursuing Data Science.
-- 💬 I enjoy doing Automation(Selenium), use Pandas library, create a dashboard from end to end using python only (Dash, Plotly, sqlite3). 
-- 😄 I like doing challenge questions on boot.dev and rank high on leaderboards, also looking into solving more questions on leetcode.
+- 🔭 I’m currently working on building skills as Data Analyst.<br>
+- 🌱 I’m currently learning to code on Python.  <br>
+- ⚡ I’m currently pursuing Data Science.<br>
+- 💬 I enjoy doing Automation(Selenium), use Pandas library, create a dashboard from end to end using python only (Dash, Plotly, sqlite3). <br>
+- 😄 I like doing challenge questions on boot.dev and rank high on leaderboards, also looking into solving more questions on leetcode.<br>
 <!--
 **Metior21/Metior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
