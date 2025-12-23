@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning to code on Python.  <br>
 - ⚡ I’m also pursuing Data Science.<br>
 - 💬 I enjoy doing Automation(Selenium), use Pandas library, create a dashboard from end to end using python only (Dash, Plotly, sqlite3). <br>
-- 😄 I like doing challenge questions on boot.dev and rank high on leaderboards, also looking into solving more questions on leetcode.<br>
 <!--
 **Metior21/Metior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
