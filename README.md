@@ -3,7 +3,7 @@
   <img src="https://api.boot.dev/v1/users/public/7d7a773f-0f08-423d-a5f1-45f90f454748/thumbnail" >
 </p>
 - 🔭 I’m currently working on building skills as Data Analyst.<br>
-- 🌱 I’m currently learning to code on Python.  <br>
+- 🌱 I’m currently learning to code on Python. <br>
 - ⚡ I’m also pursuing Data Science.<br>
 - 💬 I enjoy doing Automation(Selenium), use Pandas library, create a dashboard from end to end using python only (Dash, Plotly, sqlite3). <br>
 <!--
