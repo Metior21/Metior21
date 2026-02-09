@@ -1,4 +1,4 @@
-## Hi I'm Sidak 👋
+## Hi I'm Sidak 👋 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7d7a773f-0f08-423d-a5f1-45f90f454748/thumbnail" >
 </p>
