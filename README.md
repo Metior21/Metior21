@@ -4,8 +4,8 @@
 </p> 
 - 🔭 I’m currently working on building skills as Business Analyst.    <br>
 - 🌱 I’m currently learning to code on Python. <br> 
-- ⚡ I’m also pursuing MBA.<br>
-- 💬 I enjoy doing understanding requirements, communicating with people and finding solutions. <br>
+- ⚡ I’m also pursuing Master of Business Administration (MBA).<br>
+- 💬 I enjoy understanding requirements, communicating with people and finding solutions. <br>
 <!--
 **Metior21/Metior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
